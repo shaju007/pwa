@@ -1,7 +1,7 @@
 {
   "name": "PWA great",
   "short_name": "PWA",
-  "start_url": "index.html",
+  "start_url": ".",
   "background_color": "rgb(53, 197, 197)",
   "theme_color": "#e3e",
   "display": "standalone",
